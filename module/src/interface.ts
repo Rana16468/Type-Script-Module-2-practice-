@@ -52,7 +52,7 @@
         presentAddress:string;
         permanentAddress:string;
     };
-     gender: 'male' | 'female';}
+     gender: 'male' | 'female';}   
     const student:studentList<studentType>=[{id:1,name:'sohel rana',email:'amsr2345@gmail.com',address:{
     permanentAddress:'Thakurgoan',
     presentAddress:'Dhaka'
